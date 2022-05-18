@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nsuler001\\Desktop\\Обучение\\Geekbrains\\4 Знакомство с языком C#\\Семинары\\Seminar 2 dz\\Example001\\Example001.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nsuler001\\Desktop\\Обучение\\Geekbrains\\4 Знакомство с языком C#\\Семинары\\Seminar 2 dz\\Example001\\Example001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nsuler001\\Desktop\\Обучение\\Geekbrains\\4 Знакомство с языком C#\\Семинары\\Seminar 2 dz\\Example001\\Example001.csproj",
+        "projectName": "Example001",
+        "projectPath": "C:\\Users\\nsuler001\\Desktop\\Обучение\\Geekbrains\\4 Знакомство с языком C#\\Семинары\\Seminar 2 dz\\Example001\\Example001.csproj",
+        "packagesPath": "C:\\Users\\nsuler001\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nsuler001\\Desktop\\Обучение\\Geekbrains\\4 Знакомство с языком C#\\Семинары\\Seminar 2 dz\\Example001\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nsuler001\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
